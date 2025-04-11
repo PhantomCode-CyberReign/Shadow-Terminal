@@ -23,3 +23,4 @@ Welcome to **Shadow Terminal | Ultimate Hacker's Framework v1.0**, a powerful an
    ```bash
    git clone https://github.com/PhantomCode-CyberReign/Shadow-Terminal.git
    cd Shadow-Terminal
+   python main.py
